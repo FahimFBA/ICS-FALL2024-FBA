@@ -1,6 +1,13 @@
 # ICS-FALL2024-FBA
 Faculty Codes for Introduction to Computer Systems (Fall 2024) at United International University
 
+## Some Good Resources for the Students
+
+- [W3Schools](https://www.w3schools.com/c/index.php)
+- [Codeforwin](https://codeforwin.org/c-programming-examples-exercises-solutions-beginners)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/c-language-introduction)
+- [W3resource](https://www.w3resource.com/c-programming-exercises/)
+
 
 ## Some Advice for the Students
 
